@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThatMintyLad243
+- 😐 Sono @ThatMintyLad243
 - :)  Mi piace scrivere codice
 
 <!---
