@@ -1,2 +1,2 @@
-Gotta update ts
+# Hi
 ![fuck you](githubPng.png)
